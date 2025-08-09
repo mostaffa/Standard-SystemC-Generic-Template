@@ -187,6 +187,6 @@ cat <<EOL > ${PROJECT_NAME}/.vscode/launch.json
 }
 EOL
 
-echo "✅ SystemC project '${PROJECT_NAME}' created with Producer & Consumer modules."
-echo "📂 Location: $(pwd)/${PROJECT_NAME}"
-echo "🛠 Select Kit in VSCode: 'GCC with SystemC'"
+echo "SystemC project '${PROJECT_NAME}' created with Producer & Consumer modules."
+echo "Location: $(pwd)/${PROJECT_NAME}"
+echo "Select Kit in VSCode: 'GCC with SystemC'"
