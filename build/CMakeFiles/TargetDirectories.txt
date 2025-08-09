@@ -1,0 +1,3 @@
+/home/mostafa/Documents/systemc/gates/SystemC_Project/SystemC_Project/build/CMakeFiles/SystemC_Project.dir
+/home/mostafa/Documents/systemc/gates/SystemC_Project/SystemC_Project/build/CMakeFiles/edit_cache.dir
+/home/mostafa/Documents/systemc/gates/SystemC_Project/SystemC_Project/build/CMakeFiles/rebuild_cache.dir

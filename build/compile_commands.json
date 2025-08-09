@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/mostafa/Documents/systemc/gates/SystemC_Project/SystemC_Project/build",
+  "command": "/usr/bin/g++  -I/home/mostafa/Documents/systemc/gates/SystemC_Project/SystemC_Project/include -g -std=gnu++17 -o CMakeFiles/SystemC_Project.dir/src/main.cpp.o -c /home/mostafa/Documents/systemc/gates/SystemC_Project/SystemC_Project/src/main.cpp",
+  "file": "/home/mostafa/Documents/systemc/gates/SystemC_Project/SystemC_Project/src/main.cpp",
+  "output": "CMakeFiles/SystemC_Project.dir/src/main.cpp.o"
+}
+]

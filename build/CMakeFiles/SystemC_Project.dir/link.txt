@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/SystemC_Project.dir/link.d CMakeFiles/SystemC_Project.dir/src/main.cpp.o -o SystemC_Project   -L/usr/local/systemc-3.0.1/lib  -Wl,-rpath,/usr/local/systemc-3.0.1/lib -lsystemc
